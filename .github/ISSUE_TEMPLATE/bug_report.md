@@ -4,8 +4,6 @@ about: Create a report to help us improve
 
 ---
 
-Before adding an issue, please search through the open ones to see if someone else already added it.
-
 **Pack version**
 The version of the pack the Technic Launcher says is installed.
 
