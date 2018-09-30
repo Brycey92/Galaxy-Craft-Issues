@@ -4,7 +4,8 @@ about: Suggest an idea for the pack or server
 
 ---
 
-Before adding a feature request, please search through the open ones to see if someone else already added it.
+**Pack version**
+The version of the pack the Technic Launcher says is installed.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
